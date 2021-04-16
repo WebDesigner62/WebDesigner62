@@ -8,11 +8,11 @@
 - Preferred long term Project
 - Only 1 Project at a time
 
-[Fiverr Profile](https://www.fiverr.com/r1codingmaster)
+[Fiverr Profile](https://www.fiverr.com/r1codingmaster)  |
 [Upwork Profile](https://www.upwork.com/freelancers/~0127c58fda9998b1fa)
 ## Visit My Website
 https://webdesigner62.github.io/
-![Profile](/github.com/mdridwanahmed/mdridwanahmed/blob/main/Corporate%20Website%20Facebook%20Cover%20Photo.png)
+
 
 
 ## WEB DESIGN & DEVELOPMENT
